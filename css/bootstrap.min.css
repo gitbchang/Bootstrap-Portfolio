@@ -15,6 +15,7 @@
 	width: 62px;
 	height: 62px;
 	margin-left: -45px;
+	
 }
 
 #about-li-icon {
@@ -24,4 +25,19 @@
 #about-so-icon {
 	margin-left: -55px;
 
+}
+
+.portfolio-pic {
+	margin-right: 30px;
+	margin-bottom: 30px;
+}
+
+#portfolio-hangman-pic {
+	margin-right: 30px;
+	margin-bottom: 30px;
+}
+
+#portfolio-rpg-pic {
+	margin-right: 30px;
+	margin-bottom: 30px;
 }
