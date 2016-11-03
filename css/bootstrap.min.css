@@ -28,16 +28,35 @@
 }
 */
 
-#hangman-label {
+.portfolio-label {
+	position: absolute;
+	left: 15px;
+	bottom: 10px;
 	width: 275px;
 	height: 60px;
 	background-color: #4aaaa5;
 	color: white;
-	font-family: Garamond;
+	font-family: Roboto;
 	font-size: 26px;
 	text-align: center;
 	line-height: 60px;
+	z-index: 100;
 }
+
+#rpg-label {
+	position: absolute;
+	bottom: 10px;
+	width: 275px;
+	height: 60px;
+	background-color: #4aaaa5;
+	color: white;
+	font-family: Roboto;
+	font-size: 26px;
+	text-align: center;
+	line-height: 60px;
+	z-index: 100;
+}
+
 .portfolio-pic {
 	margin-right: 30px;
 	margin-bottom: 30px;
