@@ -27,6 +27,17 @@
 
 }
 */
+
+#hangman-label {
+	width: 275px;
+	height: 60px;
+	background-color: #4aaaa5;
+	color: white;
+	font-family: Garamond;
+	font-size: 26px;
+	text-align: center;
+	line-height: 60px;
+}
 .portfolio-pic {
 	margin-right: 30px;
 	margin-bottom: 30px;
